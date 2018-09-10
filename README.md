@@ -12,7 +12,7 @@ $ git clone https://github.com/cwchentw/CoronaHelloWorld.git
 
 Run this program by reading *main.lua* with [Corona](https://coronalabs.com/product/):
 
-<img src="images/helloworld.png" alt="Hello World in Corona" style="width: 40%;">
+<img src="images/helloworld.png" alt="Hello World in Corona" width="300">
 
 ## Copyright
 
